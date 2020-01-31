@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grabspell", "Grabspell.csproj", "{F4926ABE-E607-4B9A-B187-89BB95EA7A5F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AgentIPSetup", "..\AgentIPSetup\AgentIPSetup.vdproj", "{E26F82FC-9154-42D0-AB6A-DE45337CFD35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4926ABE-E607-4B9A-B187-89BB95EA7A5F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{F4926ABE-E607-4B9A-B187-89BB95EA7A5F}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{F4926ABE-E607-4B9A-B187-89BB95EA7A5F}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{F4926ABE-E607-4B9A-B187-89BB95EA7A5F}.Debug|x86.ActiveCfg = Debug|x86
+		{F4926ABE-E607-4B9A-B187-89BB95EA7A5F}.Debug|x86.Build.0 = Debug|x86
+		{F4926ABE-E607-4B9A-B187-89BB95EA7A5F}.Release|Any CPU.ActiveCfg = Release|x86
+		{F4926ABE-E607-4B9A-B187-89BB95EA7A5F}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{F4926ABE-E607-4B9A-B187-89BB95EA7A5F}.Release|Mixed Platforms.Build.0 = Release|x86
+		{F4926ABE-E607-4B9A-B187-89BB95EA7A5F}.Release|x86.ActiveCfg = Release|x86
+		{F4926ABE-E607-4B9A-B187-89BB95EA7A5F}.Release|x86.Build.0 = Release|x86
+		{E26F82FC-9154-42D0-AB6A-DE45337CFD35}.Debug|Any CPU.ActiveCfg = Debug
+		{E26F82FC-9154-42D0-AB6A-DE45337CFD35}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{E26F82FC-9154-42D0-AB6A-DE45337CFD35}.Debug|x86.ActiveCfg = Debug
+		{E26F82FC-9154-42D0-AB6A-DE45337CFD35}.Release|Any CPU.ActiveCfg = Release
+		{E26F82FC-9154-42D0-AB6A-DE45337CFD35}.Release|Mixed Platforms.ActiveCfg = Release
+		{E26F82FC-9154-42D0-AB6A-DE45337CFD35}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52B6E715-E9C9-4EBB-98C3-09BAD4942DED}
+	EndGlobalSection
+EndGlobal
